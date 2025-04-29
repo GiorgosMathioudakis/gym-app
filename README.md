@@ -1,2 +1,2 @@
 # gym-app
-a webapp that generates training regimens
+The best way to get a great workout program using React and TailwindCSS
